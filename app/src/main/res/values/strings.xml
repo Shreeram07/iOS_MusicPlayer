@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="elapsedTime">0.00</string>
+    <string name="remainingTime">-0.00</string>
+    <string name="artistText">Jingle Bells (Christmas song) - Santa Claus</string>
+</resources>
